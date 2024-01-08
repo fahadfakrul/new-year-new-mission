@@ -288,6 +288,40 @@
 #red{
     color: #F00; 
 }
+.gift-banner{
+    position: relative;
+    margin-top: 64px;
+    margin-left: 850px;
+    margin-bottom: 0;
+}
+.img1{
+    position: absolute;
+    left: -150px;
+    bottom: 50px;
+    
+    
+}
+
+
+.gift-banner2{
+    position: relative;
+    transform: translateY(-5px);
+  margin-top: 0;
+  margin-left: -40px;
+}
+.img2{
+    position: absolute;
+    transform: translateY(-650px);
+    
+}
+/* .gift-banner{
+    height: 433px;
+    width: 429px;
+    background: url(../resources/Rectangle\ 1.png) ;
+    margin-top: 64px;
+    margin-left: 805px;
+    background-position:right ; 
+} */
 
 /* .banner {
     background-image: url(../resources/Banner\ Image.png);
